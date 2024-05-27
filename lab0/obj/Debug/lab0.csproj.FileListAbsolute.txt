@@ -1,0 +1,7 @@
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\bin\Debug\lab0.exe.config
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\bin\Debug\lab0.exe
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\bin\Debug\lab0.pdb
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\obj\Debug\lab0.csproj.AssemblyReference.cache
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\obj\Debug\lab0.csproj.CoreCompileInputs.cache
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\obj\Debug\lab0.exe
+C:\Users\12206\Desktop\OOP2 assignments\lab0\lab0\obj\Debug\lab0.pdb
